@@ -38,10 +38,11 @@ sections:
     is_numbered: true
     grid_items:
       - title: Coworking
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Join a vibrant community of  social and creative entrepreneurs by
+          signing up for coworking at Fairmount Innovation Lab. Options include
+          day passes, flex and dedicated desks. Community residents are eligible
+          for a 10% discount.
       - title: Launchpad
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
