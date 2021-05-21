@@ -19,7 +19,7 @@ sections:
       development gap that exists within the creative entrepreneurial realm in
       the Uphams Corner area.
     actions:
-      - label: Let's talk
+      - label: Our Vision
         url: /contact
         style: button
   - section_id: latest-projects
