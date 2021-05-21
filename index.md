@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: >-
       Fairmount Innovation Lab promotes inclusive innovation, creative and
-      social enterprise, and entrepreneurship in the Boston community.
+      social enterprise, and entrepreneurship in Boston.
     content: >
       Located in the [Upham’s Corner Arts and Innovation
       District](https://www.boston.gov/economic-development/uphams-corner-arts-and-innovation-district),
