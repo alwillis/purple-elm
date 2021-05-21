@@ -44,10 +44,12 @@ sections:
           day passes, flex and dedicated desks. Community residents are eligible
           for a 10% discount.
       - title: Launchpad
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Fairmount Innovation Lab’s Launchpad is a business accelerator for
+          early-stage creative or social entrepreneurs. 
+
+          [Learn
+          More](https://elephant-carillon-k3ad.squarespace.com/education-for-teachers)
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
