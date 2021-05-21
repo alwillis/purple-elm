@@ -12,7 +12,7 @@ sections:
       District](https://www.boston.gov/economic-development/uphams-corner-arts-and-innovation-district),
       we believe that sustainable opportunities for local residents and
       businesses are  created by empowering the significant entrepreneurial
-      talent that exists in the neighborhood.
+      talent that exists in our neighborhoods.
 
 
       Fairmount Innovation Lab was founded to respond to the business
