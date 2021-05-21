@@ -7,9 +7,17 @@ sections:
     title: >-
       Fairmount Innovation Lab promotes inclusive innovation, creative and
       social enterprise, and entrepreneurship in the Boston community.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Located in the [Upham’s Corner Arts and Innovation
+      District](https://www.boston.gov/economic-development/uphams-corner-arts-and-innovation-district),
+      we believe that sustainable opportunities for local residents and
+      businesses are  created by empowering the significant entrepreneurial
+      talent that exists in the neighborhood.
+
+
+      Fairmount Innovation Lab was founded to respond to the business
+      development gap that exists within the creative entrepreneurial realm in
+      the Uphams Corner area.
     actions:
       - label: Let's talk
         url: /contact
